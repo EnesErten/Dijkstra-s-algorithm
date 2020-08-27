@@ -1,17 +1,15 @@
 #include <iostream>
-#include "Data.h"
-#include "Graph.h"
-#include "ShortestPath.h"
 #include <vector>
 #include <cassert>
 #include <ctime>
 #include <cstdlib>
-#include "PriorityQueue.h"
 #include <cassert>
 #include <algorithm>
-#include "ShortestPath.h"
 #include <climits>
-
+#include "PriorityQueue.h"
+#include "Data.h"
+#include "Graph.h"
+#include "ShortestPath.h"
 
 using namespace std;
 
